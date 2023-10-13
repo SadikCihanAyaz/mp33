@@ -1,5 +1,6 @@
 {
     "forceUpdate": ["1", "2", "3"],
-    "forceUpdateText": "Update the app",
+    "forceUpdateText": "Update Needed",
+    "forceUpdateDetail": "Why this upgrade is needed: crash was resolved. Some updates was performed on the app. ",
     "upgradeLink": ""
 }
