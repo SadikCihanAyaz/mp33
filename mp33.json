@@ -1,4 +1,5 @@
 {
-    "forceUpdate": "1, 2, 3",
-    "forceUpdateText": "Update the app"
+    "forceUpdate": [1, 2, 3],
+    "forceUpdateText": "Update the app",
+    "upgradeLink": ""
 }
